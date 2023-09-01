@@ -6,7 +6,9 @@ lint:
 	pylint --disable=R,C *.py devopsLib
 
 test:
-	python -m pytest -vv --cov=devopslib test_*.py
+	python -m pytest -vv --cov=devopsLib test_*.py
 
 format:
-	black *.py
+	black *.py devopsLib/*.py
+
+all: install lint test format
