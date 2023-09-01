@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=kwZNpieUreA
 
 Creating a cloud based development is advantageous. Cloud based tech stack
 ### Colab Notebook
+This is an example of how to use [colab](https://github.com/claymane/devops-python-tutorial/blob/main/devops_python_tutorial.ipynb)
 ### Github Codespaces
 ### AWS Cloudshell
 ### AWS Cloud9
