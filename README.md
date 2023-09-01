@@ -16,11 +16,11 @@ This is an example of how to use [colab](https://github.com/claymane/devops-pyth
 
 Build out a python project scaffold:
 
-* Makefile
-* requirements.txt
+* [Makefile](https://github.com/claymane/devops-python-tutorial/blob/main/Makefile)
+* [requirements.txt](https://github.com/claymane/devops-python-tutorial/blob/main/requirements.txt)
 * virtualvenv
-* test_library.py
-* python_library
+* [test_devopsLib.py](https://github.com/claymane/devops-python-tutorial/blob/main/test_devopsLib.py)
+* [python_library](https://github.com/claymane/devops-python-tutorial/tree/main/devopsLib)
 * Dockerfile
 * command-line-tool
 * microservice
@@ -28,6 +28,7 @@ Build out a python project scaffold:
 1. Create a virtualenv: `virtualenv ~/.venv` alternatively `python3 -m venv ~/.venv`
 2. Edit my `.bashrc` to automatically load the virtual environment by including `source ~/.venv/bin/activate` at the tail.
 ![Alt text](image.png)
+3. make all
 
 
 ### AWS Cloudshell
