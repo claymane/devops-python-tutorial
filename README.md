@@ -14,13 +14,19 @@ This is an example of how to use [colab](https://github.com/claymane/devops-pyth
 
 Build out a python project scaffold:
 
-* Makefile
-* requirements.txt
+* Makefile -- file for building the application
+* requirements.txt -- requirements for the application
+* venv -- virtual environment for reliably including dependencies
 * test_library.py
 * python_library
 * Dockerfile
 * command-line-tool
 * microservice
+
+1. Create a virtualenv: `virtualenv ~/.venv`
+2. Edit my `.bashrc` to automatically load the virtual environment by including `source ~/.venv/bin/activate` at the tail.
+![Alt text](image.png)
+
 
 ### AWS Cloudshell
 ### AWS Cloud9
