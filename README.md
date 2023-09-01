@@ -1,3 +1,5 @@
+[![Test Multiple Python Version](https://github.com/claymane/devops-python-tutorial/actions/workflows/main.yml/badge.svg)](https://github.com/claymane/devops-python-tutorial/actions/workflows/main.yml)
+
 # devops-python-tutorial
 https://www.youtube.com/watch?v=kwZNpieUreA
 
