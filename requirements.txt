@@ -1,4 +1,4 @@
 pylint==2.13.8
 pytes==7.1.2
 black==22.3.0
-pytest-cov=4.1.0
+pytest-cov==4.1.0
