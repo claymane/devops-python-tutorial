@@ -17,6 +17,11 @@ Build out a python project scaffold:
 * Makefile -- file for building the application
 * requirements.txt -- requirements for the application
 * venv -- virtual environment for reliably including dependencies
+
+`git add *`
+`git commit -m 'optional message`
+`git push`
+
 * test_library.py
 * python_library
 * Dockerfile
